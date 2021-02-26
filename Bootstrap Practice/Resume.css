@@ -1,0 +1,21 @@
+#derline {
+    text-decoration: none;
+}
+
+body {
+    background-color:
+        #FFFEF2;
+}
+
+.btn-center {
+    justify-content: center;
+}
+
+.italic-center {
+    text-align: center; 
+    font-style: italic;
+}
+
+.re-center {
+    text-align: center;
+}
